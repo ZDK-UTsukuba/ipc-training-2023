@@ -1,2 +1,2 @@
 # ipc-training-2023
-Hellow World!!!
+Hello World!!!
